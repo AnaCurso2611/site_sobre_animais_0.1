@@ -1,0 +1,38 @@
+# 🦎 Animais Estranhamente Fofos
+
+Este projeto é uma galeria interativa e visualmente encantadora de animais exóticos e curiosos que, mesmo com aparências fora do comum, são incrivelmente fofos.
+
+## 💡 Descrição
+
+Utilizando HTML, CSS e JavaScript, o site apresenta imagens, curiosidades e características de animais como o **Axolote**, o **Saiga Tatarica** e o **Pangolim**, com um layout responsivo e moderno baseado no framework W3.CSS.
+
+## 🌐 Demonstração
+
+Você pode visualizar o projeto hospedado via GitHub Pages (opcional):
+> **[Link para o site](https://seu-usuario.github.io/animais-estranhamente-fofos/)**
+
+## 🗂️ Estrutura
+
+- `src/index.html` — Página principal do projeto com a estrutura da galeria.
+- `src/style.css` — Estilização completa da página, com responsividade e animações.
+- `src/script.js` — Script responsável pela abertura/fechamento do menu lateral.
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- [W3.CSS](https://www.w3schools.com/w3css/)
+- Google Fonts
+
+## 📱 Responsivo?
+
+Sim! O layout se adapta a diferentes tamanhos de tela (mobile, tablet e desktop).
+
+## 📷 Créditos de Imagem
+
+As imagens são utilizadas para fins educacionais/demonstrativos, hospedadas no Glitch CDN.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes (adicione se desejar).
