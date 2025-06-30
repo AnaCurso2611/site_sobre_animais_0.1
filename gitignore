@@ -1,0 +1,17 @@
+# Evita arquivos desnecessários no repositório
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs e editores
+.vscode/
+*.code-workspace
+.idea/
+
+# Node (se for expandido no futuro)
+node_modules/
+dist/
