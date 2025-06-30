@@ -1,0 +1,7 @@
+animais-estranhamente-fofos/
+├── src/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── .gitignore
+└── README.md
